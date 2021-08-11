@@ -1,14 +1,10 @@
-# Booksmarks-Application
-Created a small level Bookmarks Web App where the user can save his related links.
+# Bookmarker LocalStorage App
 
-# Languages Used 
-1) JavaScript
-2) Html
-3) CSS
-4) Bootstrap
+Simple application for bookmarking webistes. This app goes along with the "Learn JavaScript By Building A Bookmarking App" tutorial. It uses localStorage for storing bookmarks 
 
-# Usage 
-Just clone or download the elements of this repo and open it with VS Code and Make it Live.
+### Version
+1.0.0
 
-# Web App's Link
+### Usage
 
+Just download and open index.html. It is all client side
